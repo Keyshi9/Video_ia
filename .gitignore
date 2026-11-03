@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+remotion-shorts/voices/
+remotion-shorts/out/**/*.mp4
+*.onnx
